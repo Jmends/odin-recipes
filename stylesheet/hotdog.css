@@ -1,0 +1,25 @@
+body {
+    background-color: darkgrey;
+}
+
+#title{
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+}
+
+li{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#description{
+    text-align: center;
+    font-size: 25px;
+}
