@@ -1,0 +1,32 @@
+body{
+    background-color: lightcoral;
+}
+
+#head{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#pancake{
+    text-align: center;
+}
+
+.description{
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul{
+    letter-spacing: 5px;
+}
+
+ul,ol{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.steps{
+    letter-spacing: 1px;
+}
