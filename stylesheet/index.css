@@ -1,5 +1,5 @@
 body{
-    background-color: tan;
+    background-color:cornflowerblue;
     
 }
 
@@ -8,12 +8,28 @@ body{
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    padding: 24px;
+    text-decoration: underline;
 
 }
 
 .unorder{
+    background-color: lightblue;
+    border: 5px dashed black;
+    margin: 100px 100px;
     text-align: center;
     font-size: 40px;
     list-style-type: none;
 
+}
+#kfc{
+    padding: 24px;
+}
+#pancake{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding: 24px;
+}
+#hotdog{
+    padding: 24px;
 }
